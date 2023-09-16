@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "kDXxhoEO12Kn3uLsUzHfsU3aq30Epe1r6yJQIGgebVc=",
+  "Source": "MeuRazorApp",
+  "BasePath": "_content/MeuRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeuRazorApp\\wwwroot",
+      "Source": "MeuRazorApp",
+      "ContentRoot": "C:\\Users\\Manoel\\EstudosAspDotnet\\MeuRazorApp\\wwwroot\\",
+      "BasePath": "_content/MeuRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
